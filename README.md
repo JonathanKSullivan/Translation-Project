@@ -7,7 +7,7 @@ In this project, I got to build a neural network from scratch to carry out a pre
 
 The data comes from the UCI Machine Learning Database.
 
-![My First Neural Network](./images/main.png)
+![My First Neural Network](./images/main.jpg)
 
 ## Getting Started
 
